@@ -54,7 +54,7 @@ public class CalculaCustoEndpoint {
 				}
 			}
 		}
-		if(tempMapas.size()!=0){
+		if(tempMapas.size()!=0 ){
 			boolean temp =false;
 			for(Mapa mapaTemp : tempMapas){
 				if(temp)
